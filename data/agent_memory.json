@@ -1,0 +1,1346 @@
+{
+  "user_1": [
+    {
+      "timestamp": "2026-09-27T18:56:52",
+      "observation": {
+        "income": 100000.0,
+        "expenses": 55000.0,
+        "savings": 350000.0,
+        "debt": 80000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 45000.0,
+        "income_change": 0.0,
+        "expense_change": 0.0,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Goal monitoring: Emergency Fund",
+      "reason": "The goal has 66.7% completion. It is currently the highest-priority financial goal.",
+      "action": "Prioritize monthly contribution toward Emergency Fund",
+      "action_type": "GOAL_PRIORITY",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 13500.0,
+        "debt_allocation": 13500.0,
+        "goal_allocation": 11250.0,
+        "discretionary_budget": 6750.0,
+        "total_allocations": 45000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-27T19:28:25",
+      "observation": {
+        "income": 100000.0,
+        "expenses": 55000.0,
+        "savings": 350000.0,
+        "debt": 80000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 45000.0,
+        "income_change": 0.0,
+        "expense_change": 0.0,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Goal monitoring: Emergency Fund",
+      "reason": "The goal has 66.7% completion and remains the highest-priority goal under the current financial conditions. Agent memory contains 1 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Prioritize monthly contribution toward Emergency Fund",
+      "action_type": "GOAL_PRIORITY",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 13500.0,
+        "debt_allocation": 13500.0,
+        "goal_allocation": 11250.0,
+        "discretionary_budget": 6750.0,
+        "total_allocations": 45000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-27T22:19:56",
+      "observation": {
+        "income": 100000.0,
+        "expenses": 55000.0,
+        "savings": 350000.0,
+        "debt": 80000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 45000.0,
+        "income_change": 0.0,
+        "expense_change": 0.0,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Goal monitoring: Emergency Fund",
+      "reason": "The goal has 66.7% completion and remains the highest-priority goal under the current financial conditions. Agent memory contains 2 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Prioritize monthly contribution toward Emergency Fund",
+      "action_type": "GOAL_PRIORITY",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 13500.0,
+        "debt_allocation": 13500.0,
+        "goal_allocation": 11250.0,
+        "discretionary_budget": 6750.0,
+        "total_allocations": 45000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-27T22:30:15",
+      "observation": {
+        "income": 100000.0,
+        "expenses": 55000.0,
+        "savings": 350000.0,
+        "debt": 80000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 45000.0,
+        "income_change": 0.0,
+        "expense_change": 0.0,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Goal monitoring: Emergency Fund",
+      "reason": "The goal has 66.7% completion and remains the highest-priority goal under the current financial conditions. Agent memory contains 3 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Prioritize monthly contribution toward Emergency Fund",
+      "action_type": "GOAL_PRIORITY",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 13500.0,
+        "debt_allocation": 13500.0,
+        "goal_allocation": 11250.0,
+        "discretionary_budget": 6750.0,
+        "total_allocations": 45000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-27T22:40:41",
+      "observation": {
+        "income": 100000.0,
+        "expenses": 55000.0,
+        "savings": 350000.0,
+        "debt": 80000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 45000.0,
+        "income_change": 0.0,
+        "expense_change": 0.0,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Goal monitoring: House",
+      "reason": "The goal competition engine evaluated all 2 configured goals. House received the highest goal score (80.0/100) with 20.0% completion. Agent memory contains 4 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Prioritize monthly contribution toward House",
+      "action_type": "GOAL_PRIORITY",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 13500.0,
+        "debt_allocation": 13500.0,
+        "goal_allocation": 11250.0,
+        "discretionary_budget": 6750.0,
+        "total_allocations": 45000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-27T22:46:38",
+      "observation": {
+        "income": 100000.0,
+        "expenses": 55000.0,
+        "savings": 350000.0,
+        "debt": 80000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 45000.0,
+        "income_change": 0.0,
+        "expense_change": 0.0,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Goal monitoring: House",
+      "reason": "The goal competition engine evaluated all 2 configured goals. House received the highest goal score (80.0/100) with 20.0% completion. Agent memory contains 5 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Prioritize monthly contribution toward House",
+      "action_type": "GOAL_PRIORITY",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 13500.0,
+        "debt_allocation": 13500.0,
+        "goal_allocation": 11250.0,
+        "discretionary_budget": 6750.0,
+        "total_allocations": 45000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-27T22:49:49",
+      "observation": {
+        "income": 100000.0,
+        "expenses": 55000.0,
+        "savings": 350000.0,
+        "debt": 80000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 45000.0,
+        "income_change": 0.0,
+        "expense_change": 0.0,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Goal monitoring: House",
+      "reason": "The goal competition engine evaluated all 2 configured goals. House received the highest goal score (80.0/100) with 20.0% completion. Agent memory contains 6 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Prioritize monthly contribution toward House",
+      "action_type": "GOAL_PRIORITY",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 13500.0,
+        "debt_allocation": 13500.0,
+        "goal_allocation": 11250.0,
+        "discretionary_budget": 6750.0,
+        "total_allocations": 45000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-27T23:16:28",
+      "observation": {
+        "income": 100000.0,
+        "expenses": 55000.0,
+        "savings": 350000.0,
+        "debt": 80000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 45000.0,
+        "income_change": 0.0,
+        "expense_change": 0.0,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Goal monitoring: House",
+      "reason": "The goal competition engine evaluated all 2 configured goals. House received the highest goal score (80.0/100) with 20.0% completion. Agent memory contains 7 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Prioritize monthly contribution toward House",
+      "action_type": "GOAL_PRIORITY",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 13500.0,
+        "debt_allocation": 13500.0,
+        "goal_allocation": 11250.0,
+        "discretionary_budget": 6750.0,
+        "total_allocations": 45000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-29T23:51:02",
+      "observation": {
+        "income": 100000.0,
+        "expenses": 55000.0,
+        "savings": 350000.0,
+        "debt": 80000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 45000.0,
+        "income_change": 0.0,
+        "expense_change": 0.0,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Goal monitoring: House",
+      "reason": "The goal competition engine evaluated all 2 configured goals. House received the highest goal score (80.0/100) with 20.0% completion. Agent memory contains 8 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Prioritize monthly contribution toward House",
+      "action_type": "GOAL_PRIORITY",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 13500.0,
+        "debt_allocation": 13500.0,
+        "goal_allocation": 11250.0,
+        "discretionary_budget": 6750.0,
+        "total_allocations": 45000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-30T21:44:24",
+      "observation": {
+        "income": 100000.0,
+        "expenses": 55000.0,
+        "savings": 350000.0,
+        "debt": 80000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 45000.0,
+        "income_change": 0.0,
+        "expense_change": 0.0,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Goal monitoring: House",
+      "reason": "The goal competition engine evaluated all 2 configured goals. House received the highest goal score (80.0/100) with 20.0% completion. Agent memory contains 9 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Prioritize monthly contribution toward House",
+      "action_type": "GOAL_PRIORITY",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 13500.0,
+        "debt_allocation": 13500.0,
+        "goal_allocation": 11250.0,
+        "discretionary_budget": 6750.0,
+        "total_allocations": 45000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    }
+  ],
+  "evaluation_20260927_230940_571964": [
+    {
+      "timestamp": "2026-09-27T23:09:40",
+      "observation": {
+        "income": 100000.0,
+        "expenses": 55000.0,
+        "savings": 350000.0,
+        "debt": 80000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 45000.0,
+        "income_change": 0.0,
+        "expense_change": 0.0,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Goal monitoring: House",
+      "reason": "The goal competition engine evaluated all 2 configured goals. House received the highest goal score (80.0/100) with 20.0% completion.",
+      "action": "Prioritize monthly contribution toward House",
+      "action_type": "GOAL_PRIORITY",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 13500.0,
+        "debt_allocation": 13500.0,
+        "goal_allocation": 11250.0,
+        "discretionary_budget": 6750.0,
+        "total_allocations": 45000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-27T23:09:40",
+      "observation": {
+        "income": 100000.0,
+        "expenses": 60500.00000000001,
+        "savings": 350000.0,
+        "debt": 80000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 39499.99999999999,
+        "income_change": 0.0,
+        "expense_change": 10.000000000000012,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Significant expense increase detected",
+      "reason": "Expenses increased by 10.0%. The agent increases expense-control priority. Agent memory contains 1 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Reduce discretionary spending and review the financial plan",
+      "action_type": "EXPENSE_CONTROL",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 15799.999999999998,
+        "debt_allocation": 9874.999999999998,
+        "goal_allocation": 5924.999999999999,
+        "discretionary_budget": 7899.999999999999,
+        "total_allocations": 39499.99999999999,
+        "last_adjustment": "Emergency savings increased and goal allocation reduced due to higher expenses."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-27T23:09:40",
+      "observation": {
+        "income": 85000.0,
+        "expenses": 60500.00000000001,
+        "savings": 350000.0,
+        "debt": 80000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 24499.999999999993,
+        "income_change": -15.0,
+        "expense_change": 0.0,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Significant income reduction detected",
+      "reason": "Income decreased by 15.0%. The agent prioritizes cash preservation. Agent memory contains 2 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Temporarily reduce flexible allocations and preserve cash reserves",
+      "action_type": "INCOME_PROTECTION",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 11024.999999999996,
+        "debt_allocation": 4899.999999999999,
+        "goal_allocation": 2449.9999999999995,
+        "discretionary_budget": 6124.999999999998,
+        "total_allocations": 24499.999999999993,
+        "last_adjustment": "Cash preservation increased because income decreased."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-27T23:09:40",
+      "observation": {
+        "income": 85000.0,
+        "expenses": 55000.0,
+        "savings": 350000.0,
+        "debt": 104000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 30000.0,
+        "income_change": 0.0,
+        "expense_change": -9.090909090909102,
+        "savings_change": 0.0,
+        "debt_change": 30.0
+      },
+      "decision": "Goal monitoring: House",
+      "reason": "The goal competition engine evaluated all 2 configured goals. House received the highest goal score (80.0/100) with 20.0% completion. Agent memory contains 3 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Prioritize monthly contribution toward House",
+      "action_type": "GOAL_PRIORITY",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 9000.0,
+        "debt_allocation": 9000.0,
+        "goal_allocation": 7500.0,
+        "discretionary_budget": 4500.0,
+        "total_allocations": 30000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-27T23:09:40",
+      "observation": {
+        "income": 85000.0,
+        "expenses": 63249.99999999999,
+        "savings": 350000.0,
+        "debt": 104000.0,
+        "emergency_fund": 200000.0,
+        "monthly_surplus": 21750.000000000007,
+        "income_change": 0.0,
+        "expense_change": 14.999999999999986,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Significant expense increase detected",
+      "reason": "Expenses increased by 15.0%. The agent increases expense-control priority. Agent memory contains 4 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Reduce discretionary spending and review the financial plan",
+      "action_type": "EXPENSE_CONTROL",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 8700.000000000004,
+        "debt_allocation": 5437.500000000002,
+        "goal_allocation": 3262.500000000001,
+        "discretionary_budget": 4350.000000000002,
+        "total_allocations": 21750.000000000007,
+        "last_adjustment": "Emergency savings increased and goal allocation reduced due to higher expenses."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-27T23:09:40",
+      "observation": {
+        "income": 105000.0,
+        "expenses": 55000.0,
+        "savings": 350000.0,
+        "debt": 96000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 50000.0,
+        "income_change": 23.52941176470588,
+        "expense_change": -13.043478260869556,
+        "savings_change": 0.0,
+        "debt_change": -7.6923076923076925
+      },
+      "decision": "Goal monitoring: House",
+      "reason": "The goal competition engine evaluated all 2 configured goals. House received the highest goal score (80.0/100) with 20.0% completion. Agent memory contains 5 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Prioritize monthly contribution toward House",
+      "action_type": "GOAL_PRIORITY",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 15000.0,
+        "debt_allocation": 15000.0,
+        "goal_allocation": 12500.0,
+        "discretionary_budget": 7500.0,
+        "total_allocations": 50000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    }
+  ],
+  "evaluation_20260927_231634_453675": [
+    {
+      "timestamp": "2026-09-27T23:16:34",
+      "observation": {
+        "income": 100000.0,
+        "expenses": 55000.0,
+        "savings": 350000.0,
+        "debt": 80000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 45000.0,
+        "income_change": 0.0,
+        "expense_change": 0.0,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Goal monitoring: House",
+      "reason": "The goal competition engine evaluated all 2 configured goals. House received the highest goal score (80.0/100) with 20.0% completion.",
+      "action": "Prioritize monthly contribution toward House",
+      "action_type": "GOAL_PRIORITY",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 13500.0,
+        "debt_allocation": 13500.0,
+        "goal_allocation": 11250.0,
+        "discretionary_budget": 6750.0,
+        "total_allocations": 45000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-27T23:16:34",
+      "observation": {
+        "income": 100000.0,
+        "expenses": 60500.00000000001,
+        "savings": 350000.0,
+        "debt": 80000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 39499.99999999999,
+        "income_change": 0.0,
+        "expense_change": 10.000000000000012,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Significant expense increase detected",
+      "reason": "Expenses increased by 10.0%. The agent increases expense-control priority. Agent memory contains 1 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Reduce discretionary spending and review the financial plan",
+      "action_type": "EXPENSE_CONTROL",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 15799.999999999998,
+        "debt_allocation": 9874.999999999998,
+        "goal_allocation": 5924.999999999999,
+        "discretionary_budget": 7899.999999999999,
+        "total_allocations": 39499.99999999999,
+        "last_adjustment": "Emergency savings increased and goal allocation reduced due to higher expenses."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-27T23:16:34",
+      "observation": {
+        "income": 85000.0,
+        "expenses": 60500.00000000001,
+        "savings": 350000.0,
+        "debt": 80000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 24499.999999999993,
+        "income_change": -15.0,
+        "expense_change": 0.0,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Significant income reduction detected",
+      "reason": "Income decreased by 15.0%. The agent prioritizes cash preservation. Agent memory contains 2 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Temporarily reduce flexible allocations and preserve cash reserves",
+      "action_type": "INCOME_PROTECTION",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 11024.999999999996,
+        "debt_allocation": 4899.999999999999,
+        "goal_allocation": 2449.9999999999995,
+        "discretionary_budget": 6124.999999999998,
+        "total_allocations": 24499.999999999993,
+        "last_adjustment": "Cash preservation increased because income decreased."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-27T23:16:34",
+      "observation": {
+        "income": 85000.0,
+        "expenses": 55000.0,
+        "savings": 350000.0,
+        "debt": 104000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 30000.0,
+        "income_change": 0.0,
+        "expense_change": -9.090909090909102,
+        "savings_change": 0.0,
+        "debt_change": 30.0
+      },
+      "decision": "Goal monitoring: House",
+      "reason": "The goal competition engine evaluated all 2 configured goals. House received the highest goal score (80.0/100) with 20.0% completion. Agent memory contains 3 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Prioritize monthly contribution toward House",
+      "action_type": "GOAL_PRIORITY",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 9000.0,
+        "debt_allocation": 9000.0,
+        "goal_allocation": 7500.0,
+        "discretionary_budget": 4500.0,
+        "total_allocations": 30000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-27T23:16:34",
+      "observation": {
+        "income": 85000.0,
+        "expenses": 63249.99999999999,
+        "savings": 350000.0,
+        "debt": 104000.0,
+        "emergency_fund": 200000.0,
+        "monthly_surplus": 21750.000000000007,
+        "income_change": 0.0,
+        "expense_change": 14.999999999999986,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Significant expense increase detected",
+      "reason": "Expenses increased by 15.0%. The agent increases expense-control priority. Agent memory contains 4 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Reduce discretionary spending and review the financial plan",
+      "action_type": "EXPENSE_CONTROL",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 8700.000000000004,
+        "debt_allocation": 5437.500000000002,
+        "goal_allocation": 3262.500000000001,
+        "discretionary_budget": 4350.000000000002,
+        "total_allocations": 21750.000000000007,
+        "last_adjustment": "Emergency savings increased and goal allocation reduced due to higher expenses."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-27T23:16:34",
+      "observation": {
+        "income": 105000.0,
+        "expenses": 55000.0,
+        "savings": 350000.0,
+        "debt": 96000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 50000.0,
+        "income_change": 23.52941176470588,
+        "expense_change": -13.043478260869556,
+        "savings_change": 0.0,
+        "debt_change": -7.6923076923076925
+      },
+      "decision": "Goal monitoring: House",
+      "reason": "The goal competition engine evaluated all 2 configured goals. House received the highest goal score (80.0/100) with 20.0% completion. Agent memory contains 5 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Prioritize monthly contribution toward House",
+      "action_type": "GOAL_PRIORITY",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 15000.0,
+        "debt_allocation": 15000.0,
+        "goal_allocation": 12500.0,
+        "discretionary_budget": 7500.0,
+        "total_allocations": 50000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    }
+  ],
+  "default_user": [
+    {
+      "timestamp": "2026-09-29T23:54:32",
+      "observation": {
+        "income": 100000.0,
+        "expenses": 55000.0,
+        "savings": 350000.0,
+        "debt": 80000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 45000.0,
+        "income_change": 0.0,
+        "expense_change": 0.0,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Goal monitoring: House",
+      "reason": "The goal competition engine evaluated all 2 configured goals. House received the highest goal score (80.0/100) with 20.0% completion.",
+      "action": "Prioritize monthly contribution toward House",
+      "action_type": "GOAL_PRIORITY",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 13500.0,
+        "debt_allocation": 13500.0,
+        "goal_allocation": 11250.0,
+        "discretionary_budget": 6750.0,
+        "total_allocations": 45000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-30T21:46:22",
+      "observation": {
+        "income": 100000.0,
+        "expenses": 55000.0,
+        "savings": 350000.0,
+        "debt": 80000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 45000.0,
+        "income_change": 0.0,
+        "expense_change": 0.0,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Goal monitoring: House",
+      "reason": "The goal competition engine evaluated all 2 configured goals. House received the highest goal score (80.0/100) with 20.0% completion. Agent memory contains 1 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Prioritize monthly contribution toward House",
+      "action_type": "GOAL_PRIORITY",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 13500.0,
+        "debt_allocation": 13500.0,
+        "goal_allocation": 11250.0,
+        "discretionary_budget": 6750.0,
+        "total_allocations": 45000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    }
+  ],
+  "evaluation_20260929_235619_739413": [
+    {
+      "timestamp": "2026-09-29T23:56:19",
+      "observation": {
+        "income": 100000.0,
+        "expenses": 55000.0,
+        "savings": 350000.0,
+        "debt": 80000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 45000.0,
+        "income_change": 0.0,
+        "expense_change": 0.0,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Goal monitoring: House",
+      "reason": "The goal competition engine evaluated all 2 configured goals. House received the highest goal score (80.0/100) with 20.0% completion.",
+      "action": "Prioritize monthly contribution toward House",
+      "action_type": "GOAL_PRIORITY",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 13500.0,
+        "debt_allocation": 13500.0,
+        "goal_allocation": 11250.0,
+        "discretionary_budget": 6750.0,
+        "total_allocations": 45000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-29T23:56:19",
+      "observation": {
+        "income": 100000.0,
+        "expenses": 60500.00000000001,
+        "savings": 350000.0,
+        "debt": 80000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 39499.99999999999,
+        "income_change": 0.0,
+        "expense_change": 10.000000000000012,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Significant expense increase detected",
+      "reason": "Expenses increased by 10.0%. The agent increases expense-control priority. Agent memory contains 1 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Reduce discretionary spending and review the financial plan",
+      "action_type": "EXPENSE_CONTROL",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 15799.999999999998,
+        "debt_allocation": 9874.999999999998,
+        "goal_allocation": 5924.999999999999,
+        "discretionary_budget": 7899.999999999999,
+        "total_allocations": 39499.99999999999,
+        "last_adjustment": "Emergency savings increased and goal allocation reduced due to higher expenses."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-29T23:56:19",
+      "observation": {
+        "income": 85000.0,
+        "expenses": 60500.00000000001,
+        "savings": 350000.0,
+        "debt": 80000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 24499.999999999993,
+        "income_change": -15.0,
+        "expense_change": 0.0,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Significant income reduction detected",
+      "reason": "Income decreased by 15.0%. The agent prioritizes cash preservation. Agent memory contains 2 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Temporarily reduce flexible allocations and preserve cash reserves",
+      "action_type": "INCOME_PROTECTION",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 11024.999999999996,
+        "debt_allocation": 4899.999999999999,
+        "goal_allocation": 2449.9999999999995,
+        "discretionary_budget": 6124.999999999998,
+        "total_allocations": 24499.999999999993,
+        "last_adjustment": "Cash preservation increased because income decreased."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-29T23:56:19",
+      "observation": {
+        "income": 85000.0,
+        "expenses": 55000.0,
+        "savings": 350000.0,
+        "debt": 104000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 30000.0,
+        "income_change": 0.0,
+        "expense_change": -9.090909090909102,
+        "savings_change": 0.0,
+        "debt_change": 30.0
+      },
+      "decision": "Goal monitoring: House",
+      "reason": "The goal competition engine evaluated all 2 configured goals. House received the highest goal score (80.0/100) with 20.0% completion. Agent memory contains 3 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Prioritize monthly contribution toward House",
+      "action_type": "GOAL_PRIORITY",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 9000.0,
+        "debt_allocation": 9000.0,
+        "goal_allocation": 7500.0,
+        "discretionary_budget": 4500.0,
+        "total_allocations": 30000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-29T23:56:19",
+      "observation": {
+        "income": 85000.0,
+        "expenses": 63249.99999999999,
+        "savings": 350000.0,
+        "debt": 104000.0,
+        "emergency_fund": 200000.0,
+        "monthly_surplus": 21750.000000000007,
+        "income_change": 0.0,
+        "expense_change": 14.999999999999986,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Significant expense increase detected",
+      "reason": "Expenses increased by 15.0%. The agent increases expense-control priority. Agent memory contains 4 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Reduce discretionary spending and review the financial plan",
+      "action_type": "EXPENSE_CONTROL",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 8700.000000000004,
+        "debt_allocation": 5437.500000000002,
+        "goal_allocation": 3262.500000000001,
+        "discretionary_budget": 4350.000000000002,
+        "total_allocations": 21750.000000000007,
+        "last_adjustment": "Emergency savings increased and goal allocation reduced due to higher expenses."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-29T23:56:19",
+      "observation": {
+        "income": 105000.0,
+        "expenses": 55000.0,
+        "savings": 350000.0,
+        "debt": 96000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 50000.0,
+        "income_change": 23.52941176470588,
+        "expense_change": -13.043478260869556,
+        "savings_change": 0.0,
+        "debt_change": -7.6923076923076925
+      },
+      "decision": "Goal monitoring: House",
+      "reason": "The goal competition engine evaluated all 2 configured goals. House received the highest goal score (80.0/100) with 20.0% completion. Agent memory contains 5 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Prioritize monthly contribution toward House",
+      "action_type": "GOAL_PRIORITY",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 15000.0,
+        "debt_allocation": 15000.0,
+        "goal_allocation": 12500.0,
+        "discretionary_budget": 7500.0,
+        "total_allocations": 50000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    }
+  ],
+  "evaluation_20260930_214658_897359": [
+    {
+      "timestamp": "2026-09-30T21:46:58",
+      "observation": {
+        "income": 100000.0,
+        "expenses": 55000.0,
+        "savings": 350000.0,
+        "debt": 80000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 45000.0,
+        "income_change": 0.0,
+        "expense_change": 0.0,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Goal monitoring: House",
+      "reason": "The goal competition engine evaluated all 2 configured goals. House received the highest goal score (80.0/100) with 20.0% completion.",
+      "action": "Prioritize monthly contribution toward House",
+      "action_type": "GOAL_PRIORITY",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 13500.0,
+        "debt_allocation": 13500.0,
+        "goal_allocation": 11250.0,
+        "discretionary_budget": 6750.0,
+        "total_allocations": 45000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-30T21:46:58",
+      "observation": {
+        "income": 100000.0,
+        "expenses": 60500.00000000001,
+        "savings": 350000.0,
+        "debt": 80000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 39499.99999999999,
+        "income_change": 0.0,
+        "expense_change": 10.000000000000012,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Significant expense increase detected",
+      "reason": "Expenses increased by 10.0%. The agent increases expense-control priority. Agent memory contains 1 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Reduce discretionary spending and review the financial plan",
+      "action_type": "EXPENSE_CONTROL",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 15799.999999999998,
+        "debt_allocation": 9874.999999999998,
+        "goal_allocation": 5924.999999999999,
+        "discretionary_budget": 7899.999999999999,
+        "total_allocations": 39499.99999999999,
+        "last_adjustment": "Emergency savings increased and goal allocation reduced due to higher expenses."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-30T21:46:58",
+      "observation": {
+        "income": 85000.0,
+        "expenses": 60500.00000000001,
+        "savings": 350000.0,
+        "debt": 80000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 24499.999999999993,
+        "income_change": -15.0,
+        "expense_change": 0.0,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Significant income reduction detected",
+      "reason": "Income decreased by 15.0%. The agent prioritizes cash preservation. Agent memory contains 2 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Temporarily reduce flexible allocations and preserve cash reserves",
+      "action_type": "INCOME_PROTECTION",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 11024.999999999996,
+        "debt_allocation": 4899.999999999999,
+        "goal_allocation": 2449.9999999999995,
+        "discretionary_budget": 6124.999999999998,
+        "total_allocations": 24499.999999999993,
+        "last_adjustment": "Cash preservation increased because income decreased."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-30T21:46:58",
+      "observation": {
+        "income": 85000.0,
+        "expenses": 55000.0,
+        "savings": 350000.0,
+        "debt": 104000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 30000.0,
+        "income_change": 0.0,
+        "expense_change": -9.090909090909102,
+        "savings_change": 0.0,
+        "debt_change": 30.0
+      },
+      "decision": "Goal monitoring: House",
+      "reason": "The goal competition engine evaluated all 2 configured goals. House received the highest goal score (80.0/100) with 20.0% completion. Agent memory contains 3 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Prioritize monthly contribution toward House",
+      "action_type": "GOAL_PRIORITY",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 9000.0,
+        "debt_allocation": 9000.0,
+        "goal_allocation": 7500.0,
+        "discretionary_budget": 4500.0,
+        "total_allocations": 30000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-30T21:46:58",
+      "observation": {
+        "income": 85000.0,
+        "expenses": 63249.99999999999,
+        "savings": 350000.0,
+        "debt": 104000.0,
+        "emergency_fund": 200000.0,
+        "monthly_surplus": 21750.000000000007,
+        "income_change": 0.0,
+        "expense_change": 14.999999999999986,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Significant expense increase detected",
+      "reason": "Expenses increased by 15.0%. The agent increases expense-control priority. Agent memory contains 4 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Reduce discretionary spending and review the financial plan",
+      "action_type": "EXPENSE_CONTROL",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 8700.000000000004,
+        "debt_allocation": 5437.500000000002,
+        "goal_allocation": 3262.500000000001,
+        "discretionary_budget": 4350.000000000002,
+        "total_allocations": 21750.000000000007,
+        "last_adjustment": "Emergency savings increased and goal allocation reduced due to higher expenses."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    },
+    {
+      "timestamp": "2026-09-30T21:46:58",
+      "observation": {
+        "income": 105000.0,
+        "expenses": 55000.0,
+        "savings": 350000.0,
+        "debt": 96000.0,
+        "emergency_fund": 250000.0,
+        "monthly_surplus": 50000.0,
+        "income_change": 23.52941176470588,
+        "expense_change": -13.043478260869556,
+        "savings_change": 0.0,
+        "debt_change": -7.6923076923076925
+      },
+      "decision": "Goal monitoring: House",
+      "reason": "The goal competition engine evaluated all 2 configured goals. House received the highest goal score (80.0/100) with 20.0% completion. Agent memory contains 5 previous completed cycle(s) and was consulted before this decision.",
+      "action": "Prioritize monthly contribution toward House",
+      "action_type": "GOAL_PRIORITY",
+      "priority_goal": {
+        "name": "Emergency Fund",
+        "target_amount": 300000.0,
+        "current_amount": 200000.0,
+        "remaining_amount": 100000.0,
+        "progress": 66.66666666666666,
+        "priority": 1,
+        "monthly_contribution": 10000.0
+      },
+      "financial_plan": {
+        "emergency_allocation": 15000.0,
+        "debt_allocation": 15000.0,
+        "goal_allocation": 12500.0,
+        "discretionary_budget": 7500.0,
+        "total_allocations": 50000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    }
+  ]
+}

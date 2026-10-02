@@ -1,0 +1,33 @@
+{
+  "test_memory": [
+    {
+      "timestamp": "2026-09-27T18:44:42",
+      "observation": {
+        "income": 100000,
+        "expenses": 55000,
+        "savings": 350000,
+        "debt": 80000,
+        "emergency_fund": 250000,
+        "monthly_surplus": 45000,
+        "income_change": 0.0,
+        "expense_change": 0.0,
+        "savings_change": 0.0,
+        "debt_change": 0.0
+      },
+      "decision": "Financial condition is stable",
+      "reason": "No major financial risk was detected in the current environment.",
+      "action": "Continue the current financial plan",
+      "action_type": "MAINTAIN_PLAN",
+      "priority_goal": null,
+      "financial_plan": {
+        "emergency_allocation": 13500.0,
+        "debt_allocation": 13500.0,
+        "goal_allocation": 11250.0,
+        "discretionary_budget": 6750.0,
+        "total_allocations": 45000.0,
+        "last_adjustment": "Financial conditions stable. Current allocation maintained."
+      },
+      "outcome": "Agent action completed and simulated plan updated."
+    }
+  ]
+}
